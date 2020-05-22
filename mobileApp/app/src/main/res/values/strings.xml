@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">testNauka</string>
+    <string name="enterButton">Вход</string>
+    <string name="regButton">Регистрация</string>
+    <string name="regHello">Введите Логин</string>
+    <string name="login">Логин</string>
+    <string name="registration">Зарегестрироваться</string>
+    <string name="loginInput">Введите Логин</string>
+    <string name="enter">Вход</string>
+    <string name="newDepart">Введите имя: </string>
+    <string name="newDate">Введите дату: </string>
+    <string name="employee">Employee</string>
+</resources>
